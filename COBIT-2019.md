@@ -12,8 +12,8 @@ Kenmerken van COBIT 2019:
     Modulair ontwerp: Het framework bestaat uit verschillende modules die kunnen worden aangepast aan de behoeften van de organisatie.
     Governance- en managementdoelen: COBIT definieert 40 doelen verdeeld over vijf hoofdgebieden.
     Flexibiliteit en schaalbaarheid: COBIT kan zowel door kleine als grote organisaties worden gebruikt.
-    ![COBIT 2019](https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/6/f/6f2908d209a61a5d9bf2564abe2224f53c5e50233e2b3fc0cf45e53737d8b603/cobit-2019-slide2.png)
-
+    
+![COBIT 2019](https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/6/f/6f2908d209a61a5d9bf2564abe2224f53c5e50233e2b3fc0cf45e53737d8b603/cobit-2019-slide2.png)
 
 Het framework bestaat uit verschillende componenten, zoals governance-objectieven, managementpraktijken, en evaluatiecriteria, die organisaties helpen bij het beheren van zowel interne processen als IT-infrastructuur.
 Hoe draagt COBIT 2019 bij aan de governance van cloudprocessen, -componenten, -services, business en mensen?
