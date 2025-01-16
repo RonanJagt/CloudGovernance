@@ -1,41 +1,30 @@
 # Gastles over Governance bij de HU
 
-## Samenvatting van de presentatie
+## Samenvatting van de presentatie (halfpagina)
 
-De gastles werd gegeven door de Product Manager voor Azure bij de Hogeschool Utrecht (HU) voor cloud services. Het hoofdonderwerp van de presentatie was cloud governance, specifiek gericht op de implementatie en optimalisatie van cloud resources binnen de organisatie.
+De gastles werd gepresenteerd door de Product Manager voor Azure bij de Hogeschool Utrecht (HU) en ging over de implementatie van cloud governance binnen de HU. Het doel was om duidelijk te maken hoe governance kan bijdragen aan het effectief beheren van cloudomgevingen en het waarborgen van kostenoptimalisatie, veiligheid en compliance. De presentatie behandelde de kerncomponenten van cloud governance zoals SaaS (bijvoorbeeld Osiris, 365, Github) en de public cloudomgeving in Azure. Het gebruik van Microsoft’s Cloud Adoption Framework (CAF) werd besproken, wat een gestructureerde aanpak biedt voor cloudstrategieën in vijf fasen: strategie, planning, voorbereiding, migratie en innovatie.
 
-De kerncomponenten van cloud governance werden uitgebreid besproken, met nadruk op de integratie van verschillende cloud services zoals SaaS (Osiris, 365, Github) en de public cloud omgeving in Azure. De HU maakt gebruik van Microsoft’s Cloud Adoption Framework (CAF) om haar cloudstrategie effectief te plannen en implementeren. Het proces is opgebouwd uit verschillende fasen zoals strategie, planning, voorbereiding, migratie en innovatie.
+De spreker legde uit hoe de HU haar cloudinfrastructuur beheert via Azure Landing Zones (ALZ), die dienen als richtlijnen voor het organiseren van cloudresources. Daarnaast werden best practices besproken voor monitoring, rapportage van kosten en prestaties, incidentbeheer en risicomanagement. Compliance en beveiliging werden als cruciale elementen benadrukt om een betrouwbare en veilige cloudinfrastructuur te waarborgen.
 
-De cloud governance bij de HU richt zich op drie belangrijke elementen: compliance, beveiliging en operationele efficiëntie. Dit omvat onder andere het implementeren van duidelijke beleidslijnen, het gebruik van externe architecten voor infrastructuurontwerpen, en het beheer van cloud resources door middel van monitoring, rapportageprocessen, incidentbeheer en risicomanagement. Het doel is het creëren van een stabiele en veilige cloudinfrastructuur die bijdraagt aan de optimale werking van de organisatie.
+## Feedback, Feedup en Feedforward (halfpagina)
 
-De presentatie behandelde ook Azure Landing Zones (ALZ), waarbij de HU richtlijnen volgt voor cloud infrastructuur, schaling en veiligheid. Hierbij wordt de nadruk gelegd op het structuren van resources binnen Azure en het beheren van netwerkbeveiliging om de gegevens en infrastructuur te beschermen. 
+### Feedback: Wat vond ik goed?
+De presentatie bood een uitstekende uitleg over de strategische aanpak van cloud governance bij de HU. De spreker gaf duidelijke voorbeelden van de verschillende cloud services die de HU gebruikt en hoe deze worden geïntegreerd in de bredere cloud governance-strategie. De aanpak met behulp van het Cloud Adoption Framework (CAF) is een solide basis voor elke organisatie die haar cloudinfrastructuur wil verbeteren.
 
-## Kritische reflectie
+### Feedup: Wat zou er beter moeten?
+Hoewel de presentatie waardevolle inzichten bood, miste ik een dieper inzicht in de technische details van de implementatie van bijvoorbeeld Azure Landing Zones en de specifieke regels die daarbij gevolgd moeten worden. Het zou ook nuttig zijn om meer te horen over de samenwerking van de HU met externe partners en hoe dit proces wordt gecoördineerd.
 
-### Wat vond ik goed?
+### Feedforward: Wat zou er als eerste moeten gebeuren?
+De eerste stap in de verbetering van cloud governance zou het opstellen van een gedetailleerd actieplan moeten zijn. Dit plan zou specifiek moeten richten op compliance, risicomanagement en beveiliging. Ook moeten er concrete stappen worden genomen voor het verbeteren van incidentbeheer en rapportageprocessen, zodat deze bij de HU sneller kunnen reageren op operationele uitdagingen.
 
-De presentatie was goed gestructureerd en de uitleg over de verschillende fasen van cloud adoptie, zoals strategie en migratie, was helder. Het gebruik van concrete voorbeelden, zoals de applicaties die bij de HU draaien (Osiris, 365, Github), maakte de inhoud tastbaar en direct relevant voor de HU. Ook de focus op monitoring van kosten en prestaties, evenals het gebruik van best practices bij het implementeren van governance, gaf een goed inzicht in hoe deze processen in de praktijk werken. De visie op compliance en beveiliging is essentieel voor het succes van cloud governance.
+## Relevantie voor mijn werkplek (halfpagina)
 
-### Wat kan er beter?
+De concepten die werden gepresenteerd, zijn direct relevant voor mijn werk in een IT-bedrijf dat cloud-oplossingen aanbiedt aan MKB's. Cloud governance, zoals beschreven in de presentatie, biedt een duidelijke structuur voor het beheren van cloudinfrastructuur, wat cruciaal is voor het bieden van betrouwbare en veilige diensten aan klanten. Het gebruik van een framework zoals CAF kan ons helpen om gestructureerd en efficiënt cloudstrategieën voor klanten te ontwikkelen en uit te voeren, wat kostenoptimalisatie en beveiliging bevordert.
 
-Een punt van verbetering zou zijn dat er meer diepgang werd verwacht in de technische implementatie van bijvoorbeeld Azure Landing Zones en de specifieke richtlijnen die daarin gevolgd worden. De presentatie heeft hier wel kort naar verwezen, maar het zou interessant zijn om meer specifieke voorbeelden van implementaties en uitdagingen te horen. Ook was het niet helemaal duidelijk hoe de HU daadwerkelijk met externe partners samenwerkt in dit proces. 
-
-### Wat zou er als eerste moeten gebeuren?
-
-Het zou nuttig zijn om als eerste een gedetailleerd actieplan op te stellen waarin alle aspecten van governance en compliance verder worden uitgewerkt, inclusief concrete stappen voor het verbeteren van de beveiliging en het beheren van cloud resources. Het opzetten van een duidelijker framework voor incidentbeheer en rapportageprocessen binnen de HU zou ook een belangrijke prioriteit moeten zijn.
-
-## Toepassing voor onze eigen organisatie
-
-De inzichten die tijdens de presentatie werden gedeeld, zijn zeker bruikbaar voor onze organisatie, vooral met betrekking tot de implementatie van een solide cloud governance-structuur. De nadruk op compliance en het correct beheren van cloud resources sluit goed aan bij de behoeften van onze organisatie, vooral als het gaat om het waarborgen van gegevensbeveiliging en het optimaliseren van cloudkosten.
-
-Wat we specifiek kunnen overnemen is het gebruik van het Cloud Adoption Framework (CAF) en het implementeren van een duidelijk beleid voor cloudgebruik, bijvoorbeeld door gebruik te maken van Azure Landing Zones. Deze best practices kunnen ons helpen bij het opzetten van een efficiënter en veiliger cloudbeheer. Vooral het optimaliseren van kosten door monitoring en rapportageprocessen kan bijdragen aan het beheersen van uitgaven. 
-
-Daarnaast kunnen de principes van risicomanagement en de continue evaluatie van prestaties worden toegepast om onze cloudinfrastructuur verder te verbeteren. Het zou waardevol zijn om ook feedback en optimalisatie door middel van monitoring, zoals bij de HU wordt toegepast, in ons eigen cloudbeheerproces te implementeren. Het zou daarnaast nuttig zijn om het beheer van cloudresources nog verder te centraliseren en de samenwerking met andere teams te verbeteren door het gebruik van tools zoals PaaS en IaaS.
+Daarnaast kan de nadruk op compliance en beveiliging bijdragen aan het waarborgen van klantgegevens en het voldoen aan wet- en regelgeving. Dit is van bijzonder belang voor onze klanten in het MKB, die vaak niet de middelen hebben om complexe beveiligingsmaatregelen zelf te implementeren. De toepassing van Azure Landing Zones zou ons in staat stellen om de cloudomgevingen van klanten goed te organiseren en te schalen, terwijl we tegelijkertijd hun resources kunnen monitoren en optimaliseren voor kostenbeheersing. Dit maakt de aangeboden diensten zowel operationeel als financieel aantrekkelijker voor de klant.
 
 ## Conclusie
 
-Samenvattend biedt de presentatie waardevolle inzichten in hoe governance van cloudservices succesvol kan worden geïmplementeerd in een grotere organisatie. De gedeelde best practices en tools kunnen ons helpen bij het verbeteren van onze eigen cloudstrategieën, vooral als het gaat om kostenbeheer, risicomanagement en het waarborgen van de veiligheid van cloud resources. Door een duidelijke structuur en continue evaluatie van prestaties kunnen we een robuuste cloudinfrastructuur opzetten die bijdraagt aan de organisatiebehoeften.
+Deze gastles biedt waardevolle inzichten voor IT-aanbieders die werken met cloudtechnologieën. De principes van cloud governance die bij de HU worden toegepast, zijn relevant voor elke organisatie die haar cloudinfrastructuur wil verbeteren en optimaliseren. Het belang van compliance, beveiliging en het gebruik van gestructureerde frameworks zoals CAF is essentieel voor het succes van cloudtransities, en de geleerde lessen kunnen gemakkelijk worden toegepast in de context van MKB-klanten.
 
 ---
-
-**Link naar de presentatie**: [YouTube Video](https://www.youtube.com/watch?v=v1Q-Zxf8rHQ)
