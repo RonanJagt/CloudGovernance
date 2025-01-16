@@ -63,6 +63,7 @@ Grote cloudproviders zoals Microsoft Azure, AWS en Google Cloud passen de princi
     Google Cloud: Google Cloud heeft een aantal governance- en compliance-programma's die de principes van COBIT volgen, vooral op het gebied van informatiebeveiliging en risicomanagement.
 
 Deze cloudproviders hebben mechanismen ingebouwd die organisaties helpen bij het implementeren van governancepraktijken die aansluiten bij COBIT, wat hun klanten in staat stelt om te voldoen aan hun interne richtlijnen en externe compliancevereisten.
+
 Conclusie
 
-COBIT 2019 is een krachtig raamwerk dat organisaties helpt bij het beheren van IT en cloudprocessen met een duidelijke focus op governance, risicobeheer en waardecreatie. Het biedt een solide basis voor cloudomgevingen, hoewel de implementatie een aanzienlijke investering in tijd en middelen kan vergen. Grote cloudproviders passen de principes van COBIT toe om hun klanten te ondersteunen in hun governancebehoeften, wat hen helpt om beter te presteren en te voldoen aan compliancevereisten.
+    COBIT 2019 is een krachtig raamwerk dat organisaties helpt bij het beheren van IT en cloudprocessen met een duidelijke focus op governance, risicobeheer en waardecreatie. Het biedt een solide basis voor cloudomgevingen, hoewel de implementatie een aanzienlijke investering in tijd en middelen kan vergen. Grote cloudproviders passen de principes van COBIT toe om hun klanten te ondersteunen in hun governancebehoeften, wat hen helpt om beter te presteren en te voldoen aan compliancevereisten.
