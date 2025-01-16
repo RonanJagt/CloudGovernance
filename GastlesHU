@@ -1,12 +1,12 @@
 # Gastles over Governance bij de HU
 
-## Samenvatting van de presentatie (halfpagina)
+## Samenvatting van de presentatie
 
 De gastles werd gepresenteerd door de Product Manager voor Azure bij de Hogeschool Utrecht (HU) en ging over de implementatie van cloud governance binnen de HU. Het doel was om duidelijk te maken hoe governance kan bijdragen aan het effectief beheren van cloudomgevingen en het waarborgen van kostenoptimalisatie, veiligheid en compliance. De presentatie behandelde de kerncomponenten van cloud governance zoals SaaS (bijvoorbeeld Osiris, 365, Github) en de public cloudomgeving in Azure. Het gebruik van Microsoft’s Cloud Adoption Framework (CAF) werd besproken, wat een gestructureerde aanpak biedt voor cloudstrategieën in vijf fasen: strategie, planning, voorbereiding, migratie en innovatie.
 
 De spreker legde uit hoe de HU haar cloudinfrastructuur beheert via Azure Landing Zones (ALZ), die dienen als richtlijnen voor het organiseren van cloudresources. Daarnaast werden best practices besproken voor monitoring, rapportage van kosten en prestaties, incidentbeheer en risicomanagement. Compliance en beveiliging werden als cruciale elementen benadrukt om een betrouwbare en veilige cloudinfrastructuur te waarborgen.
 
-## Feedback, Feedup en Feedforward (halfpagina)
+## Feedback, Feedup en Feedforward
 
 ### Feedback: Wat vond ik goed?
 De presentatie bood een uitstekende uitleg over de strategische aanpak van cloud governance bij de HU. De spreker gaf duidelijke voorbeelden van de verschillende cloud services die de HU gebruikt en hoe deze worden geïntegreerd in de bredere cloud governance-strategie. De aanpak met behulp van het Cloud Adoption Framework (CAF) is een solide basis voor elke organisatie die haar cloudinfrastructuur wil verbeteren.
@@ -17,7 +17,7 @@ Hoewel de presentatie waardevolle inzichten bood, miste ik een dieper inzicht in
 ### Feedforward: Wat zou er als eerste moeten gebeuren?
 De eerste stap in de verbetering van cloud governance zou het opstellen van een gedetailleerd actieplan moeten zijn. Dit plan zou specifiek moeten richten op compliance, risicomanagement en beveiliging. Ook moeten er concrete stappen worden genomen voor het verbeteren van incidentbeheer en rapportageprocessen, zodat deze bij de HU sneller kunnen reageren op operationele uitdagingen.
 
-## Relevantie voor mijn werkplek (halfpagina)
+## Relevantie voor mijn werkplek
 
 De concepten die werden gepresenteerd, zijn direct relevant voor mijn werk in een IT-bedrijf dat cloud-oplossingen aanbiedt aan MKB's. Cloud governance, zoals beschreven in de presentatie, biedt een duidelijke structuur voor het beheren van cloudinfrastructuur, wat cruciaal is voor het bieden van betrouwbare en veilige diensten aan klanten. Het gebruik van een framework zoals CAF kan ons helpen om gestructureerd en efficiënt cloudstrategieën voor klanten te ontwikkelen en uit te voeren, wat kostenoptimalisatie en beveiliging bevordert.
 
