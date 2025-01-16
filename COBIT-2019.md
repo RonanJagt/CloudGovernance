@@ -1,6 +1,6 @@
 COBIT 2019 Framework: Overzicht en Toepassing
 
-Video: Wat is COBIT 2019?
+Video: [Wat is COBIT 2019?](https://www.youtube.com/watch?v=v1Q-Zxf8rHQ)
 
 COBIT 2019 is een wereldwijd erkend raamwerk voor IT-governance dat organisaties helpt bij het effectief en efficiënt beheren van hun technologie en informatie. Het biedt een structuur om IT-processen en governance te afstemmen op de bedrijfsdoelen, en draagt bij aan het risicomanagement en de waardecreatie binnen organisaties.
 Wat is COBIT 2019?
